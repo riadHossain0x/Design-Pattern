@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory DP", "Methods DP\Factory DP.csproj", "{B2E554B6-3282-49B6-BDDB-A01172E469D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory Method", "Factory Method\Factory DP.csproj", "{B2E554B6-3282-49B6-BDDB-A01172E469D9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy DP", "Strategy DP\Strategy DP.csproj", "{F7B25BA4-8185-42D6-B314-ABEFCCC634DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy\Strategy DP.csproj", "{F7B25BA4-8185-42D6-B314-ABEFCCC634DF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{DC8D0271-003F-4075-BC0A-ED252EB5A5DC}"
 EndProject
