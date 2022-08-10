@@ -5,17 +5,17 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory Pattern", "Factory Method\Factory Pattern.csproj", "{B2E554B6-3282-49B6-BDDB-A01172E469D9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stratergy Pattern", "Stratergy\Stratergy\Stratergy Pattern.csproj", "{F7B25BA4-8185-42D6-B314-ABEFCCC634DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy Pattern", "Strategy\Strategy\Strategy Pattern.csproj", "{F7B25BA4-8185-42D6-B314-ABEFCCC634DF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stratergy", "Stratergy", "{DC8D0271-003F-4075-BC0A-ED252EB5A5DC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{DC8D0271-003F-4075-BC0A-ED252EB5A5DC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessInterface", "Stratergy\BusinessInterface\BusinessInterface.csproj", "{AFF322FF-58A0-4638-BE43-5F73915073F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessInterface", "Strategy\BusinessInterface\BusinessInterface.csproj", "{AFF322FF-58A0-4638-BE43-5F73915073F2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "Stratergy\BusinessLayer\BusinessLayer.csproj", "{21D89F51-23DA-4E9D-8791-86F86FF79A30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "Strategy\BusinessLayer\BusinessLayer.csproj", "{21D89F51-23DA-4E9D-8791-86F86FF79A30}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryCustomer", "Stratergy\FactoryCustomer\FactoryCustomer.csproj", "{F6737C55-40CF-4A06-B069-4E346F54C9D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryCustomer", "Strategy\FactoryCustomer\FactoryCustomer.csproj", "{F6737C55-40CF-4A06-B069-4E346F54C9D4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validations", "Stratergy\Validations\Validations.csproj", "{7EAE384D-64A1-47B3-9A86-DED34A93D17D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validations", "Strategy\Validations\Validations.csproj", "{7EAE384D-64A1-47B3-9A86-DED34A93D17D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
